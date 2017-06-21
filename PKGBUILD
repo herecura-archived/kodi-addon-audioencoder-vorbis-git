@@ -3,8 +3,8 @@
 
 _gitname=kodi-addon-audioencoder-vorbis
 pkgname="$_gitname-git"
-_commit=507a34d
-pkgver=20170522.507a34d
+_commit=6bd0b65
+pkgver=20170620.6bd0b65
 pkgrel=1
 pkgdesc="Vorbis Audio Encoder add-on for Kodi"
 arch=('i686' 'x86_64')
